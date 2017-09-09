@@ -1,0 +1,20 @@
+{
+  "name": "https_example",
+  "version": "1.0.0",
+  "description": "HTTP Client and streams",
+  "main": "https_example.js",
+  "scripts": {
+    "start": "node https_example",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdhunter3141/https_example.git"
+  },
+  "author": "Bryan Hunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdhunter3141/https_example/issues"
+  },
+  "homepage": "https://github.com/bdhunter3141/https_example#readme"
+}
